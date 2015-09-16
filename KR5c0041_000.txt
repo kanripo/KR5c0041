@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:17:03.643018
-#+TITLE: 混元八景真經
-#+PROPERTY: DZID  DZ0660
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，11—434 五卷 洞神部本文類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
